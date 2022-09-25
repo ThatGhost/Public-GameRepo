@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0f9c9bc1fbb8d834c8a1d604ca413456, type: 3}
+  m_Name: Mod_FFB_Big
+  m_EditorClassIdentifier: 
+  Name: Big
+  Desc: Make the projectile a bit bigger
+  ManaCost: 3
+  ReloadTime: 0
+  _size: 0.1
+  _color: {r: 0, g: 0, b: 0, a: 1}
+  _speed: 0
+  _attack: 0
+  _mesh: {fileID: 0}
+  _explosive: 0
+  _burn: 0
+  _seeking: 0
+  _curve: 0
